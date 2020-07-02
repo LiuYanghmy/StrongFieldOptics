@@ -51,8 +51,7 @@ $P_L,P_R$在一个脉冲周期内的变化见[3] fig. 2，$\Delta P$随时间和
 
 （[3] fig. 1）当电场指向$-z$方向时，右侧的势垒高，此时恰好$P_R>0.5$，电子主要占据右侧的核；并且在半个周期内，占据数出现了多个峰值，这意味着在半个周期内可以出现多次电离（Multiple Ionization Bursts,MIBs）。这一结论在[3] fig. 4中也可以看到。
 
-<img src="https://i.loli.net/2020/07/02/I2RL7bZVncExfAg.jpg" width = "300" height = "400">
-<img src="https://i.loli.net/2020/07/02/GHtl52wSoLdjgAD.jpg" width = "300" height = "300">
+<img src="https://i.loli.net/2020/07/02/I2RL7bZVncExfAg.jpg" width = "300" height = "400"><img src="https://i.loli.net/2020/07/02/GHtl52wSoLdjgAD.jpg" width = "300" height = "300">
 
 -------------------------------------
 

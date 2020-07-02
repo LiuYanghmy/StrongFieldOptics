@@ -10,7 +10,7 @@ Charge-Resonance-Enhanced Ionization(CREI)
 
 双原子分子离子（例：$\mathtt H_2^+$）电子在线偏场下电离，电离率随核间距$R$变化（见[1] fig.1）；随核间距增大，电离率增大，随后出现峰值，进而减小，并趋于单原子电离率。
 
-![_1_fig.1.jpg](https://i.loli.net/2020/07/02/azAeRIJTKWSkQ3N.jpg)
+<img src="https://i.loli.net/2020/07/02/azAeRIJTKWSkQ3N.jpg" width = "300" height = "300">
 
 [1]fig.1
 
@@ -54,6 +54,9 @@ $P_L,P_R$在一个脉冲周期内的变化见[3] fig. 2，$\Delta P$随时间和
 ![_3_fig.2.jpg](https://i.loli.net/2020/07/02/I2RL7bZVncExfAg.jpg)
 ![_3_fig.4.jpg](https://i.loli.net/2020/07/02/GHtl52wSoLdjgAD.jpg)
 
+<img src="https://i.loli.net/2020/07/02/I2RL7bZVncExfAg.jpg" width = "300" height = "400">
+<img src="https://i.loli.net/2020/07/02/GHtl52wSoLdjgAD.jpg" width = "300" height = "300">
+
 -------------------------------------
 
 $P_L,P_R$的第一项$|c_1\pm c_2|^2/2$不随时间改变，这意味着除非电子呆在其中一个Floquet态，否则电子密度总是不对称分布的；在$R$比较小时，振荡的密度分布（对应一个偶极矩$d\sim R/2$）比较小，此时，这种静态的不对称分布占主导地位，可能也会导致增强电离（[1] fig. 1中靠左的峰）。
@@ -62,7 +65,7 @@ $P_L,P_R$的第一项$|c_1\pm c_2|^2/2$不随时间改变，这意味着除非�
 
 CREI的一个显著特点是，电离发生在具有更高能量的态中；这一点在坐标空间并不明显，但是可以在相空间中看到。
 
-![_3_fig.5.jpg](https://i.loli.net/2020/07/02/cMETrWS5C1kDx4s.jpg)
+<img src="https://i.loli.net/2020/07/02/cMETrWS5C1kDx4s.jpg" width = "300" height = "300">
 
 [3]  fig. 5记录了从$t=-0.5$到$t=-0.25$这$1/4$个周期内离子演化的wigner分布（这里电场指向$-z$方向，因此右侧对应高势垒，按CREI，右侧的电子应具有更高的能量；此外，由于矢势$A$在这一区间单调递增，Momentum gate的动量也随时间递增，见附录）。
 
@@ -75,7 +78,7 @@ CREI的一个显著特点是，电离发生在具有更高能量的态中；这�
 
 $\mathtt H_2^+$离子的wigner分布见[4] fig. 3（或[3] fig. 5），对应的外场见[4] fig. 1。
 
-![_4_fig.3.jpg](https://i.loli.net/2020/07/02/CdkAjzbcVNJ4Qqo.jpg)
+<img src="https://i.loli.net/2020/07/02/CdkAjzbcVNJ4Qqo.jpg" width = "300" height = "300">
 
 相图中$z=0$处正负交替地排列着一系列的“斑点”，其中红色（正值）的点对应双中心干涉的峰，意味着电子主要具有这样的动量；而蓝色（负值）的点由于双中心干涉的限制，在相图中不可达。
 
